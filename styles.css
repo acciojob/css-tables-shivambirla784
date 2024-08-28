@@ -6,8 +6,7 @@ body{
 th,td{
 	border: 2px solid #CCCCCC;
 	border-radius: 5px;
-	padding: 5px;
-	padding-left: 10px;
+	padding: 8px;
 }
 
 tr:nth-child(even){
